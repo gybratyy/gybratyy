@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gybratyy
+- 😄 Pronouns: async/await
